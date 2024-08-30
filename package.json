@@ -1,5 +1,5 @@
 {
-  "name": "@react-native-community/template",
+  "name": "@react-native-tvos/template-tv",
   "version": "0.75.2",
   "description": "The template used by `npx @react-native-community/cli init` to bootstrap a React Native application.",
   "license": "MIT",
