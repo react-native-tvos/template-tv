@@ -20,9 +20,9 @@
     "jest": "^29.7.0",
     "semver": "^7.6.3"
   },
-  "homepage": "https://github.com/react-native-community/template/tree/main",
+  "homepage": "https://github.com/react-native-tvos/template-tv/tree/main",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-community/template.git"
+    "url": "git+https://github.com/react-native-tvos/template-tv.git"
   }
 }
