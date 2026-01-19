@@ -1,6 +1,6 @@
 {
   "name": "@react-native-community/template",
-  "version": "0.84.0-rc.1-adf1cc9",
+  "version": "0.84.0-rc.2-5039523",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -8,7 +8,7 @@
   "scripts": {
     "format": "prettier --write .",
     "test": "jest",
-    "version": "0.84.0-rc.1"
+    "version": "0.84.0-rc.2"
   },
   "type": "commonjs",
   "files": [
