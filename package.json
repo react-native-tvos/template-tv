@@ -1,6 +1,7 @@
 {
-  "name": "@react-native-community/template",
-  "version": "0.84.1",
+  "name": "@react-native-tvos/template-tv",
+  "version": "0.84.1-0",
+  "description": "The template used by `npx @react-native-community/cli init` to bootstrap a React Native application.",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
